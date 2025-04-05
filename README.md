@@ -1,4 +1,4 @@
-# Unity Flow Texture Generator
+# フローテクスチャ生成機能
 
 Unity Flow Texture Generatorは、Unityエディタ上で動作するフローテクスチャ生成ツールです。
 本ツールでは、フラクタルノイズと方向性ブラーを利用し、カスタマイズ可能な流体テクスチャを生成できます。
